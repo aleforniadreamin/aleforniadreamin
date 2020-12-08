@@ -26,6 +26,9 @@ I usually use my Github for my big projects. Check out my [CodePen](https://code
 #### Crunch the Numbers
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 

@@ -27,7 +27,7 @@ I usually use my Github for my big projects. Check out my [CodePen](https://code
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   4 mins          ████████████████████▒░░░░   81.00 % 
 ```
 <!--END_SECTION:waka-->
 

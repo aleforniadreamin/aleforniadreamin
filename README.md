@@ -27,11 +27,11 @@ I usually use my Github for my big projects. Check out my [CodePen](https://code
 
 <!--START_SECTION:waka-->
 ```text
-Python       16 hrs 19 mins  ████████████░░░░░░░░░░░░░   47.51 % 
-JavaScript   5 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Markdown     5 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Text         2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-HTML         2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Python       16 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   46.59 % 
+JavaScript   6 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Markdown     5 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Text         2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+HTML         2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 <!--END_SECTION:waka-->
 

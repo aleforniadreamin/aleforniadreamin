@@ -4,7 +4,6 @@ I'm Alexander Verhulst, a Full Stack Web Developer and Navy veteran. I spend mos
 
 :mailbox: Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexander-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-verhulst/) [![Mail Badge](https://img.shields.io/badge/-@aleforniadreamin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aleforniadreamin) [![Mail Badge](https://img.shields.io/badge/-aleforniadreamin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aleforniadreamin@gmail.com)
 
 - Current Project I'm Working On: 📚 Course Planner 📚  
 - Favorite Programming Language: Python 🐍
@@ -23,17 +22,7 @@ I usually use my Github for my big projects. Check out my [CodePen](https://code
 
 [![Python Badge](https://img.shields.io/badge/-Python-268086?style=for-the-badge&labelColor=black&logo=python&logoColor=268086)](#) [![Django Badge](https://img.shields.io/badge/-Django-9e0900?style=for-the-badge&labelColor=black&logo=django&logoColor=9e0900)](#) 
 
-#### Crunch the Numbers
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   7 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.24 % 
-Python       6 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Markdown     5 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.90 % 
-HTML         5 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 % 
-CSS          4 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-```
-<!--END_SECTION:waka-->
 
 
 

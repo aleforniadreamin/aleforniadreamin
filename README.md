@@ -7,7 +7,6 @@ I'm Alexander Verhulst, a Full Stack Web Developer and Navy veteran. I spend mos
 
 - Current Project I'm Working On: 📚 Course Planner 📚  
 - Favorite Programming Language: Python 🐍
-- Best Way to Reach Me: aleforniadreamin@gmail.com
 - Hobbies: Hiking ⛺ Traveling  ✈ Video games 🎮
 - Fun Fact: Currently learning how to ride a motorcycle 🏁
 

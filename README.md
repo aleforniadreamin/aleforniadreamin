@@ -2,7 +2,7 @@
 
 Here's a quick snapshot of what I'm about:
 
-- My most recent project that I've finished was [Intergalactic Dashboard](https://github.com/aleforniadreamin/IntergalacticDashboard)
+- My most recent project that I've finished was my [portfolio site](https://aleforniadreamin.github.io/) that I'm deploying with GitHub Pages (still work in progress).
 - The project I'm working on now is a Django app to help improve my motorcycle riding skills
 - I'm currently studying JavaScript and jQuery
 - I'm looking to collaborate on awesome open source projects 

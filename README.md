@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">US Navy Veteran turned Intern Engineer with a passion for coding</h3>
 
+![logo](/Images/oct-logo.png)
+
 
 - 🔭 I’m currently working on **growing my Python skillz**
 

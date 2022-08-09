@@ -2,7 +2,7 @@
 
 <hr/>
 
-![logo](/Images/oct-logo.png)
+![logo](/Images/profile-logo-aug-22.png)
 
 ### Some Quick Facts About Me
 
